@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bpm.0x.no/sitemap.xml

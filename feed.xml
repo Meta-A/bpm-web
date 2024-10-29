@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blockchain Package Manager</title>
+    <link href="https://bpm.0x.no/feed.xml" rel="self" />
+    <link href="https://bpm.0x.no" />
+    <updated>2024-10-29T02:57:01+01:00</updated>
+    <author>
+        <name>sxiii</name>
+    </author>
+    <id>https://bpm.0x.no</id>
+
+    <entry>
+        <title>Blockchain Package Manager</title>
+        <author>
+            <name>sxiii</name>
+        </author>
+        <link href="https://bpm.0x.no/home.html"/>
+        <id>https://bpm.0x.no/home.html</id>
+
+        <updated>2024-10-29T02:57:01+01:00</updated>
+            <summary>
+                <![CDATA[
+                    BPM is a cross-platform software that allows for verifiable, proven and secure package compilation, building, fetching, verification, and deployment.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>BPM is a cross-platform software that allows for verifiable, proven and secure package compilation, building, fetching, verification, and deployment.</p>
+<p><img loading="lazy" src="https://private-user-images.githubusercontent.com/575925/380128760-c86a2e79-8384-4eb9-8513-d1b2f16a43ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNjcyNzgsIm5iZiI6MTczMDE2Njk3OCwicGF0aCI6Ii81NzU5MjUvMzgwMTI4NzYwLWM4NmEyZTc5LTgzODQtNGViOS04NTEzLWQxYjJmMTZhNDNlZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyOVQwMTU2MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOGM4MjVmNTE0OTM5MmM3MzEyOWM2NjczM2UzOTZmYWQ2MWNiYWVjNTY4YmVlY2JkZDE1NjgzZmM2MWRlNzg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uJ0BPDIfnu6xt6NS1lvRMuyv7JQ68TW8a3D_zacbtAo" alt="image" data-is-external-image="true"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

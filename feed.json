@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blockchain Package Manager",
+    "description": "",
+    "home_page_url": "https://bpm.0x.no",
+    "feed_url": "https://bpm.0x.no/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "sxiii"
+    },
+    "items": [
+        {
+            "id": "https://bpm.0x.no/home.html",
+            "url": "https://bpm.0x.no/home.html",
+            "title": "Blockchain Package Manager",
+            "summary": "BPM is a cross-platform software that allows for verifiable, proven and secure package compilation, building, fetching, verification, and deployment.",
+            "content_html": "<p>BPM is a cross-platform software that allows for verifiable, proven and secure package compilation, building, fetching, verification, and deployment.</p>\n<p><img loading=\"lazy\" src=\"https://private-user-images.githubusercontent.com/575925/380128760-c86a2e79-8384-4eb9-8513-d1b2f16a43ef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzAxNjcyNzgsIm5iZiI6MTczMDE2Njk3OCwicGF0aCI6Ii81NzU5MjUvMzgwMTI4NzYwLWM4NmEyZTc5LTgzODQtNGViOS04NTEzLWQxYjJmMTZhNDNlZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDI5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyOVQwMTU2MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iOGM4MjVmNTE0OTM5MmM3MzEyOWM2NjczM2UzOTZmYWQ2MWNiYWVjNTY4YmVlY2JkZDE1NjgzZmM2MWRlNzg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.uJ0BPDIfnu6xt6NS1lvRMuyv7JQ68TW8a3D_zacbtAo\" alt=\"image\" data-is-external-image=\"true\"></p>",
+            "author": {
+                "name": "sxiii"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-10-29T02:57:01+01:00",
+            "date_modified": "2024-10-29T02:57:01+01:00"
+        }
+    ]
+}
